@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "choiceismemods:monkey_item"
+        }
+    },
+    "result": {
+        "item": "choiceismemods:monkey_leggings",
+        "count": 1
+    }
+}

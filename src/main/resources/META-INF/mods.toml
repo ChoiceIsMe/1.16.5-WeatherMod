@@ -1,0 +1,18 @@
+#Anything that is optional which you are not using, just delete that line. You can also delete any of the '#comments'
+ 
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory
+license="All rights reserved" #mandatory https://choosealicense.com/
+ 
+[[mods]] #mandatory
+modId="choiceismemods" #mandatory
+version="1.0" #mandatory
+displayName="Weather Mod" #mandatory
+credits="Thanks for the support." #optional
+authors="ChoiceIsMe." #optional
+description='''
+Hello!
+
+This is a weather mod
+''' #mandatory
+ 

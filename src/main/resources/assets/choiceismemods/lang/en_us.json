@@ -1,0 +1,19 @@
+{
+	"item.choiceismemods.monkey_sword": "Monkey Sword",
+	"item.choiceismemods.monkey_axe": "Monkey Axe",
+	"item.choiceismemods.monkey_shovel": "Monkey Shovel",
+	"item.choiceismemods.monkey_hoe": "Monkey Hoe",
+	"item.choiceismemods.monkey_pickaxe": "Monkey Pickaxe",
+	
+	"item.choiceismemods.monkey_helmet": "Monkey Helmet",
+	"item.choiceismemods.monkey_chestplate": "Monkey Chestplate",
+	"item.choiceismemods.monkey_leggings": "Monkey Leggings",
+	"item.choiceismemods.monkey_boots": "Monkey Boots",
+	
+	"block.choiceismemods.monkey_block": "Banana Ore",
+	
+	"item.choiceismemods.monkey_item": "Banana",
+	
+	"entity.choiceismemods.example": "Example Entity"
+	
+}
